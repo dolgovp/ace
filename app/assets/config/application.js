@@ -5,5 +5,3 @@
 //= require ace-rails-ap
 
 
-
-
